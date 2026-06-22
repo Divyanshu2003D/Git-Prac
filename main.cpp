@@ -1,1 +1,1 @@
-main function()
+bool function()
