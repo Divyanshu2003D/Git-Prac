@@ -1,1 +1,3 @@
-int function()
+
+bool function()
+
